@@ -70,6 +70,9 @@ main{
   align-items: center;
   justify-content: center;
 }
+.link{
+  text-decoration: none;
+}
 .next:hover{
   background-color: rgb(163, 3, 3);
 }
